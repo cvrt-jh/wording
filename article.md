@@ -1,0 +1,6 @@
+| **Artikel**             | **Beschreibung** |
+|-------------------------|------------------|
+| **ADMINISTRATION \| NEUINSTALLATION** | Wir richten Ihr neues System fachgerecht ein und stellen sicher, dass alle Komponenten optimal zusammenarbeiten. Dabei nehmen wir alle erforderlichen Konfigurationen vor, damit Sie nach der Installation sofort produktiv arbeiten können. |
+| **ZUGANGSBERECHTIGUNG** | Wir richten den vollständigen Administratorzugang für Sie als Eigentümer des Systems ein und übergeben Ihnen damit die komplette Kontrolle über Ihre Installation. Diese Einrichtung ist bei Neuinstallationen bereits im Leistungsumfang enthalten und stellt sicher, dass Sie die volle Hoheit über Ihr System haben. |
+| **DOKUMENTATION** | Wir dokumentieren die gesamte Installation inklusive aller relevanten Konfigurationen in einem GitRepo und stellen es über eine gesicherte Webseite zur Verfügung. Sie erhalten dadurch eine transparente, versionierte Übersicht aller Komponenten, was die zukünftige Zusammenarbeit vereinfacht und Ihre Unabhängigkeit sicherstellt. |
+| **FAHRTKOSTEN** | Die Anfahrtskosten werden basierend auf der Entfernung von unserem Büro in der Waldstr. 122, 63263 Neu-Isenburg zu Ihrem Standort berechnet. Wir ermitteln die Strecke hin und zurück mit Google Maps und stellen Ihnen nur die tatsächlich anfallenden Kilometer in Rechnung. |
