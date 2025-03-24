@@ -1,4 +1,4 @@
-```
+```mermaid
 graph TD
     %% Internet Service Providers
     ISP1((ISP 1<br>Primary)) --- |WAN1| UDMP(UniFi Dream Machine Pro)
@@ -60,5 +60,4 @@ graph TD
     class AP1_1,AP1_2,AP2_1,AP2_2,AP3_1,AP3_2,AP4_1,AP4_2 accessPoint
     class CAM1_1,CAM1_2,CAM1_3,CAM2_1,CAM2_2,CAM2_3,CAM3_1,CAM3_2,CAM3_3,CAM4_1,CAM4_2,CAM4_3 camera
     class PHONES1,PHONES2,PHONES3,PHONES4 phone
-
 ```
